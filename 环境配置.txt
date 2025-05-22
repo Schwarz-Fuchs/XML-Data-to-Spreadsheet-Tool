@@ -1,0 +1,5 @@
+一、安装python3,并完成环境变量配置
+
+二、使用cmd执行以下操作安装依赖库（离线状态可运行）
+1：cmd cd到本程序文件夹所在位置
+2：运行 pip3 install --no-index --find-links=...(文件位置)/package_whl -r requirements.txt

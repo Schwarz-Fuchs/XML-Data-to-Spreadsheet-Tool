@@ -1,0 +1,464 @@
+
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="1.0" xml:lang="zh" xsi:noNamespaceSchemaLocation="http://www.medline.org.cn/schema/cma-jats/pub/1.0/CMA-article.xsd">  
+ <front> 
+  <journal-meta> 
+   <journal-id journal-id-type="nlm-ta"/>  
+   <journal-id journal-id-type="publisher-id">Chin J Nucl Med Mol Imaging</journal-id>  
+   <journal-id journal-id-type="pmc"/>  
+   <journal-title-group> 
+    <journal-title>中华核医学与分子影像杂志</journal-title>  
+    <journal-title xml:lang="en">Chinese Journal of Nuclear Medicine and Molecular Imaging</journal-title>  
+    <abbrev-journal-title abbrev-type="nlm-ta"/>  
+    <abbrev-journal-title abbrev-type="publisher" xml:lang="en">Chin J Nucl Med Mol Imaging</abbrev-journal-title>  
+    <abbrev-journal-title abbrev-type="publisher">中华核医学与分子影像杂志</abbrev-journal-title> 
+   </journal-title-group>  
+   <issn pub-type="ppub">2095-2848</issn>  
+   <issn pub-type="cn">32-1828/R</issn>  
+   <publisher> 
+    <publisher-name xml:lang="en">Chinese Medical Journals Publishing House Co., Ltd.</publisher-name>  
+    <publisher-loc xml:lang="en">42 Dongsi Xidajie, Beijing 100710, China</publisher-loc>  
+    <publisher-name>《中华医学杂志》社有限责任公司</publisher-name>  
+    <publisher-loc>100710, 北京市东四西大街42号</publisher-loc> 
+   </publisher>
+  </journal-meta>  
+  <article-meta> 
+   <article-id pub-id-type="doi">10.3760/cma.j.issn.2095-2848.2017.09.001</article-id>  
+   <article-id pub-id-type="pmid"/>  
+   <article-id pub-id-type="cma-id">1005571</article-id>  
+   <article-id pub-id-type="publisher-id"/>  
+   <article-id pub-id-type="manuscript"/>  
+   <article-id pub-id-type="other"/>  
+   <article-categories>
+    <subj-group subj-group-type="heading"> 
+     <subject>述评</subject>
+    </subj-group>  
+    <subj-group subj-group-type="heading" xml:lang="en">
+     <subject>Invited Perspective</subject>
+    </subj-group>  
+    <subj-group subj-group-type="discipline"> 
+     <subject/> 
+    </subj-group>  
+    <subj-group subj-group-type="mesh"> 
+     <subject/> 
+    </subj-group>  
+    <subj-group subj-group-type="cmesh"> 
+     <subject/> 
+    </subj-group>  
+    <subj-group subj-group-type="clc"> 
+     <subject/> 
+    </subj-group>  
+    <subj-group subj-group-type="dc"> 
+     <subject/> 
+    </subj-group> 
+   </article-categories>  
+   <title-group> 
+    <article-title>PET分子影像：神经核医学发展的机遇与挑战</article-title>  
+    <trans-article-title xml:lang="en">PET molecular imaging: the opportunity and challenge for the development of neuro-nuclear medicine</trans-article-title> 
+   </title-group>  
+   <contrib-group> 
+    <contrib contrib-type="author" xlink:type="simple" corresp="yes"> 
+     <string-name>张宏</string-name>  
+     <aff>310009　浙江大学医学院附属第二医院核医学科、浙江大学核医学与分子影像研究所、浙江省医学分子影像重点实验室</aff>  
+     <xref ref-type="corresp" rid="cor1"></xref> 
+    </contrib>
+   </contrib-group>  
+   <trans-contrib-group xml:lang="en"> 
+    <contrib contrib-type="author" xlink:type="simple" corresp="yes"> 
+     <name name-style="western">
+      <surname>Zhang</surname>
+      <given-names>Hong</given-names>
+     </name>  
+     <aff>Department of Nuclear Medicine, the Second Hospital of Zhejiang University School of Medicine, Institute of Nuclear Medicine and Molecular Imaging of Zhejiang University, Key Laboratory of Medical Molecular Imaging of Zhejiang Province, Hangzhou 310009, China</aff>  
+     <xref ref-type="corresp" rid="cor2"></xref> 
+    </contrib> 
+   </trans-contrib-group>
+   <author-notes> 
+    <corresp id="cor1">通信作者：张宏，Email：
+     <email xlink:type="simple">hzhang21@gmail.com</email>
+    </corresp>  
+    <trans-corresp id="cor2" xml:lang="en">Corresponding author: Zhang Hong, Email: 
+     <email xlink:type="simple">hzhang21@gmail.com</email>
+    </trans-corresp>  
+    <fn xml:lang="zh"> 
+     <p>本文直接使用的缩略语：A
+      <sub>β</sub>(amyloid β)，β淀粉样蛋白；AD(Alzheimer′s disease)，阿尔茨海默病；BP
+      <sub>ND</sub>(non－displaceable binding potential)，受体结合力；Cho(choline)，胆碱；Cre(creatinine)，肌酐；FDG(fluorodeoxyglucose)，脱氧葡萄糖；MET(methionine)，甲基蛋氨酸；NAA(
+      <italic>N</italic>－aceytl aspartic acid)，
+      <italic>N</italic>－乙酰天门冬氨酸；PD(Parkinson′s disease)，帕金森病；rCBF(relative cerebral blood flow)，相对脑血流量；SPM(statistical parametric mapping)，统计参数图；SUV
+      <sub>max</sub>(maximum standardized uptake value)，最大标准摄取值
+     </p>
+    </fn> 
+   </author-notes>  
+   <pub-date pub-type="ppub"> 
+    <day>25</day>
+    <month>09</month>
+    <year>2017</year> 
+   </pub-date>  
+   <pub-date pub-type="epub"/>  
+   <volume>37</volume>  
+   <issue>9</issue>  
+   <fpage>525</fpage>  
+   <lpage>526</lpage>  
+   <page-range/>  
+   <history> 
+    <date date-type="received">
+     <day>14</day>
+     <month>07</month>
+     <year>2017</year>
+    </date>  
+    <date date-type="accepted"/>  
+    <date date-type="revised"/>  
+    <date date-type="DB-modified">
+     <time>2019-03-07 11:47:05</time>
+    </date>
+   </history>  
+   <permissions> 
+    <copyright-year>2017</copyright-year>  
+    <copyright-holder>中华医学会</copyright-holder>  
+    <copyright-holder xml:lang="en">Chinese Medical Association</copyright-holder>  
+    <license xlink:type="simple">
+     <license-p>版权归中华医学会所有。</license-p>
+     <license-p>未经授权，不得转载、摘编本刊文章，不得使用本刊的版式设计。</license-p>
+     <license-p>除非特别声明，本刊刊出的所有文章不代表中华医学会和本刊编委会的观点。</license-p>
+    </license>  
+    <license xlink:type="simple" xml:lang="en">
+     <license-p>Copyright by Chinese Medical Association</license-p>
+     <license-p>No content published by the journals of Chinese Medical Association may be reproduced or abridged without authorization. Please do not use or copy the layout and design of the journals without permission.</license-p>
+     <license-p>All articles published represent the opinions of the authors, and do not reflect the official policy of the Chinese Medical Association or the Editorial Board, unless this is clearly specified.</license-p>
+    </license> 
+   </permissions>  
+   <self-uri content-type="pdf" xlink:href="2095-2848-37-09-001s.pdf"/>
+   <funding-group> 
+    <award-group> 
+     <funding-source>国家重点研发计划</funding-source>  
+     <award-id>2016YFA0100900</award-id> 
+    </award-group>  
+    <award-group> 
+     <funding-source>国家杰出青年科学基金</funding-source>  
+     <award-id>81425015</award-id> 
+    </award-group> 
+   </funding-group>  
+   <funding-group xml:lang="en"> 
+    <funding-statement>National Key Research and Development Program of China (2016YFA0100900); National Science Foundation for Distinguished Young Scholars (81425015)</funding-statement> 
+   </funding-group>  
+   <counts> 
+    <fig-count count="0"/>  
+    <table-count count="0"/>  
+    <ref-count count="7"/>  
+    <page-count count="2"/> 
+   </counts> 
+  </article-meta> 
+ </front>  
+ <back> 
+  <fn-group>
+   <fn fn-type="conflict"> 
+    <p>
+     <bold>利益冲突</bold> 　无
+    </p> 
+   </fn> 
+  </fn-group>  
+  <ref-list> 
+   <title>参考文献</title>  
+   <ref id="R1">
+    <label>[1]</label>  
+    <mixed-citation publication-type="journal" publication-format="print" xlink:type="simple">
+     <person-group person-group-type="author">
+      <string-name>党浩丹</string-name>，
+      <string-name>刘长滨</string-name>，
+      <string-name>王瑞民</string-name>，
+      <etal>等</etal>
+     </person-group>. 
+     <article-title>
+      <sup>11</sup>C－MET PET 结合功能MRI多模态显像诊断脑肿瘤的价值
+     </article-title>[J]．
+     <source>中华核医学与分子影像杂志</source>，
+     <year>2017</year>, 
+     <volume>37</volume>(
+     <issue>9</issue>): 
+     <fpage>527</fpage>－
+     <lpage>531</lpage>. 
+     <comment>DOI：
+      <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3760/cma.j.issn.2095-2848.2017.09.002" xlink:type="simple">10.3760/cma.j.issn.2095-2848.2017.09.002</ext-link>
+     </comment>.
+    </mixed-citation>  
+    <trans-mixed-citation publication-type="journal" publication-format="print" xlink:type="simple">
+     <person-group person-group-type="author">
+      <name name-style="western">
+       <surname>Dang</surname>  
+       <given-names>HD</given-names>
+      </name>, 
+      <name name-style="western">
+       <surname>Liu</surname>  
+       <given-names>CB</given-names>
+      </name>, 
+      <name name-style="western">
+       <surname>Wang</surname>  
+       <given-names>RM</given-names>
+      </name>, 
+      <etal>et al</etal>
+     </person-group>. 
+     <article-title>Diagnosis of brain tumor with multi－modality imaging of 
+      <sup>11</sup>C－MET PET combined with functional MRI
+     </article-title>[J]. 
+     <source>Chin J Nucl Med Mol Imaging</source>, 
+     <year>2017</year>, 
+     <volume>37</volume>(
+     <issue>9</issue>): 
+     <fpage>527</fpage>－
+     <lpage>531</lpage>. 
+     <comment>DOI：
+      <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3760/cma.j.issn.2095-2848.2017.09.002" xlink:type="simple">10.3760/cma.j.issn.2095-2848.2017.09.002</ext-link>
+     </comment>.
+    </trans-mixed-citation>
+   </ref>  
+   <ref id="R2">
+    <label>[2]</label>  
+    <mixed-citation publication-type="journal" publication-format="print" xlink:type="simple">
+     <person-group person-group-type="author">
+      <name name-style="western">
+       <surname>Yankam Njiwa</surname>  
+       <given-names>J</given-names>
+      </name>, 
+      <name name-style="western">
+       <surname>Gray</surname>  
+       <given-names>KR</given-names>
+      </name>, 
+      <name name-style="western">
+       <surname>Costes</surname>  
+       <given-names>N</given-names>
+      </name>, 
+      <etal>et al</etal>
+     </person-group>. 
+     <article-title>Advanced [
+      <sup>18</sup>F]FDG and [
+      <sup>11</sup>C]flumazenil PET analysis for individual outcome prediction after temporal lobe epilepsy surgery for hippocampal sclerosis
+     </article-title>[J]. 
+     <source>Neuroimage Clin</source>, 
+     <year>2014</year>, 
+     <volume>7</volume>: 
+     <fpage>122</fpage>－
+     <lpage>131</lpage>. 
+     <comment>DOI：
+      <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.nicl.2014.11.013" xlink:type="simple">10.1016/j.nicl.2014.11.013</ext-link>
+     </comment>.
+    </mixed-citation>
+   </ref>  
+   <ref id="R3">
+    <label>[3]</label>  
+    <mixed-citation publication-type="journal" publication-format="print" xlink:type="simple">
+     <person-group person-group-type="author">
+      <string-name>孙萌萌</string-name>，
+      <string-name>张红菊</string-name>，
+      <string-name>轩昂</string-name>，
+      <etal>等</etal>
+     </person-group>．
+     <article-title>首发抑郁症患者纹状体多巴胺D
+      <sub>2</sub>受体结合力改变及其与行为学的相关分析
+     </article-title>[J]．
+     <source>中华核医学与分子影像杂志</source>，
+     <year>2017</year>, 
+     <volume>37</volume>(
+     <issue>9</issue>): 
+     <fpage>532</fpage>－
+     <lpage>537</lpage>. 
+     <comment>DOI：
+      <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3760/cma.j.issn.2095-2848.2017.09.003" xlink:type="simple">10.3760/cma.j.issn.2095-2848.2017.09.003</ext-link>
+     </comment>.
+    </mixed-citation>  
+    <trans-mixed-citation publication-type="journal" publication-format="print" xlink:type="simple">
+     <person-group person-group-type="author">
+      <name name-style="western">
+       <surname>Sun</surname>  
+       <given-names>MM</given-names>
+      </name>, 
+      <name name-style="western">
+       <surname>Zhang</surname>  
+       <given-names>HJ</given-names>
+      </name>, 
+      <name name-style="western">
+       <surname>Xuan</surname>  
+       <given-names>A</given-names>
+      </name>, 
+      <etal>et al</etal>
+     </person-group>. 
+     <article-title>Non－displaceable binding potential changes of striatal dopamine D
+      <sub>2</sub> receptors in patients with first－episode major depressive disorder and the correlation with clinical features
+     </article-title>[J]. 
+     <source>Chin J Nucl Med Mol Imaging</source>, 
+     <year>2017</year>, 
+     <volume>37</volume>(
+     <issue>9</issue>): 
+     <fpage>532</fpage>－
+     <lpage>537</lpage>. 
+     <comment>DOI：
+      <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3760/cma.j.issn.2095-2848.2017.09.003" xlink:type="simple">10.3760/cma.j.issn.2095-2848.2017.09.003</ext-link>
+     </comment>.
+    </trans-mixed-citation>
+   </ref>  
+   <ref id="R4">
+    <label>[4]</label>  
+    <mixed-citation publication-type="journal" publication-format="print" xlink:type="simple">
+     <person-group person-group-type="author">
+      <string-name>王晓阳</string-name>，
+      <string-name>赵春雷</string-name>，
+      <string-name>李辉</string-name>，
+      <etal>等</etal>
+     </person-group>．
+     <article-title>基于统计参数图的脑内不对称分析法在
+      <sup>18</sup>F－FDG PET代谢显像对单侧颞叶癫
+      <inline-graphic id="IG9" xlink:href="images/2095-2848-37-09-001-F909c.png"/>定侧定位诊断上的应用
+     </article-title>[J]．
+     <source>中华核医学与分子影像杂志</source>，
+     <year>2017</year>, 
+     <volume>37</volume>(
+     <issue>9</issue>): 
+     <fpage>538</fpage>－
+     <lpage>543</lpage>. 
+     <comment>DOI：
+      <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3760/cma.j.issn.2095-2848.2017.09.004" xlink:type="simple">10.3760/cma.j.issn.2095-2848.2017.09.004</ext-link>
+     </comment>.
+    </mixed-citation>  
+    <trans-mixed-citation publication-type="journal" publication-format="print" xlink:type="simple">
+     <person-group person-group-type="author">
+      <name name-style="western">
+       <surname>Wang</surname>  
+       <given-names>XY</given-names>
+      </name>, 
+      <name name-style="western">
+       <surname>Zhao</surname>  
+       <given-names>CL</given-names>
+      </name>, 
+      <name name-style="western">
+       <surname>Li</surname>  
+       <given-names>H</given-names>
+      </name>, 
+      <etal>et al</etal>
+     </person-group>. 
+     <article-title>Statistical parametric mapping－based interhemispheric asymmetry analysis of 
+      <sup>18</sup>F－FDG PET brain imaging in localization of unilateral temporal lobe epileptic foci
+     </article-title>[J]. 
+     <source>Chin J Nucl Med Mol Imaging</source>, 
+     <year>2017</year>, 
+     <volume>37</volume>(
+     <issue>9</issue>): 
+     <fpage>538</fpage>－
+     <lpage>543</lpage>. 
+     <comment>DOI：
+      <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3760/cma.j.issn.2095-2848.2017.09.004" xlink:type="simple">10.3760/cma.j.issn.2095-2848.2017.09.004</ext-link>
+     </comment>.
+    </trans-mixed-citation>
+   </ref>  
+   <ref id="R5">
+    <label>[5]</label>  
+    <mixed-citation publication-type="journal" publication-format="print" xlink:type="simple">
+     <person-group person-group-type="author">
+      <name name-style="western">
+       <surname>Zhang</surname>  
+       <given-names>J</given-names>
+      </name>, 
+      <name name-style="western">
+       <surname>Liu</surname>  
+       <given-names>W</given-names>
+      </name>, 
+      <name name-style="western">
+       <surname>Chen</surname>  
+       <given-names>H</given-names>
+      </name>, 
+      <etal>et al</etal>
+     </person-group>. 
+     <article-title>Multimodal neuroimaging in presurgical evaluation of drug－resistant epilepsy</article-title>[J]. 
+     <source>Neuroimage Clin</source>, 
+     <year>2013</year>, 
+     <volume>4</volume>: 
+     <fpage>35</fpage>－
+     <lpage>44</lpage>. 
+     <comment>DOI：
+      <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.nicl.2013.10.017" xlink:type="simple">10.1016/j.nicl.2013.10.017</ext-link>
+     </comment>.
+    </mixed-citation>
+   </ref>  
+   <ref id="R6">
+    <label>[6]</label>  
+    <mixed-citation publication-type="journal" publication-format="print" xlink:type="simple">
+     <person-group person-group-type="author">
+      <name name-style="western">
+       <surname>Salamon</surname>  
+       <given-names>N</given-names>
+      </name>, 
+      <name name-style="western">
+       <surname>Kung</surname>  
+       <given-names>J</given-names>
+      </name>, 
+      <name name-style="western">
+       <surname>Shaw</surname>  
+       <given-names>SJ</given-names>
+      </name>, 
+      <etal>et al</etal>
+     </person-group>. 
+     <article-title>FDG－PET/MRI coregistration improves detection of cortical dysplasia in patients with epilepsy</article-title>. 
+     <source>Neurology</source>, 
+     <year>2008</year>, 
+     <volume>71</volume>(
+     <issue>20</issue>): 
+     <fpage>1594</fpage>－
+     <lpage>1601</lpage>. 
+     <comment>DOI：
+      <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1212/01.wnl.0000334752.41807.2f" xlink:type="simple">10.1212/01.wnl.0000334752.41807.2f</ext-link>
+     </comment>.
+    </mixed-citation>
+   </ref>  
+   <ref id="R7">
+    <label>[7]</label>  
+    <mixed-citation publication-type="journal" publication-format="print" xlink:type="simple">
+     <person-group person-group-type="author">
+      <string-name>方雷</string-name>，
+      <string-name>安建平</string-name>，
+      <string-name>毛军锋</string-name>，
+      <etal>等</etal>
+     </person-group>. 
+     <article-title>
+      <sup>18</sup>F－FDG PET脑代谢网络的性别差异
+     </article-title>[J]．
+     <source>中华核医学与分子影像杂志</source>，
+     <year>2017</year>, 
+     <volume>37</volume>(
+     <issue>9</issue>): 
+     <fpage>544</fpage>－
+     <lpage>549</lpage>. 
+     <comment>DOI：
+      <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3760/cma.j.issn.2095-2848.2017.09.005" xlink:type="simple">10.3760/cma.j.issn.2095-2848.2017.09.005</ext-link>
+     </comment>.
+    </mixed-citation>  
+    <trans-mixed-citation publication-type="journal" publication-format="print" xlink:type="simple">
+     <person-group person-group-type="author">
+      <name name-style="western">
+       <surname>Fang</surname>  
+       <given-names>L</given-names>
+      </name>, 
+      <name name-style="western">
+       <surname>An</surname>  
+       <given-names>JP</given-names>
+      </name>, 
+      <name name-style="western">
+       <surname>Mao</surname>  
+       <given-names>JF</given-names>
+      </name>, 
+      <etal>et al</etal>
+     </person-group>. 
+     <article-title>Gender differences of brain metabolic networks: a 
+      <sup>18</sup>F－FDG PET study
+     </article-title>[J]. 
+     <source>Chin J Nucl Med Mol Imaging</source>, 
+     <year>2017</year>, 
+     <volume>37</volume>(
+     <issue>9</issue>): 
+     <fpage>544</fpage>－
+     <lpage>549</lpage>. 
+     <comment>DOI：
+      <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3760/cma.j.issn.2095-2848.2017.09.005" xlink:type="simple">10.3760/cma.j.issn.2095-2848.2017.09.005</ext-link>
+     </comment>.
+    </trans-mixed-citation>
+   </ref> 
+  </ref-list> 
+ </back> 
+</article>
